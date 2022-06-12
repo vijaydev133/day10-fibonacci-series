@@ -1,5 +1,5 @@
 /****************************************** */
-//34.Print Fibonacci series
+//Print Fibonacci series
 /****************************************** */
 
 let  num = prompt("Enter a number: ");
